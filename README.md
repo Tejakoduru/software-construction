@@ -1,2 +1,2 @@
-# software-construction
+# software-process
 It is my first project
